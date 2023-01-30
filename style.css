@@ -3,13 +3,13 @@
     }
 
     body {
-        background-color: white;
+        background-color: maroon;
     }
 
     h1 {
        margin-bottom: 15px;
     text-align: center;
-    color:maroon;
+    color:black;
     font-size: 50px;
     }
 
